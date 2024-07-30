@@ -1,4 +1,4 @@
-baseURL = "https://icaran.github.io/blog/"
+baseURL = "https://vich-rama-jar.gitlab.io/blog/"
 disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
@@ -7,23 +7,23 @@ languageCode = "en"
 paginate = 5
 rssLimit = 10
 theme = "hugo-texify3"
-title = "TeXify3"
+title = "विचारमञ्जरी"
 
 [author]
 name = "Karan Pratap Shaw and Divyanshu Kumar"
-email = "michael@michaelneuper.com"
+email = "usandourregrets@protonmail.com"
 
 [taxonomies]
 tags = "tags"
 categories = "categories"
 
 [params]
-title="TeXify3"
-description = "TeXify3 - A LaTeX-style hugo theme with the gruvbox color scheme for personal blogging"
-footnote = """
-Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
-Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
-"""
+title="Vichāramañjarī"
+description = "Vichāramañjarī - Explore. Engage. Enlighten. Welcome to the garden of thoughts."
+# footnote = """
+# Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
+# Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
+# """
 customCSS = []
 customJS = []
 dateFormat = "2 January 2006"
