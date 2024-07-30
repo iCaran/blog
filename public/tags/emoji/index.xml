@@ -6,14 +6,14 @@
     <description>Recent content in Emoji on TeXify3</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>michael@michaelneuper.com (Michael Neuper)</managingEditor>
-    <webMaster>michael@michaelneuper.com (Michael Neuper)</webMaster>
+    <managingEditor>michael@michaelneuper.com (Karan Pratap Shaw and Divyanshu Kumar)</managingEditor>
+    <webMaster>michael@michaelneuper.com (Karan Pratap Shaw and Divyanshu Kumar)</webMaster>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/hugo-texify3/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
       <link>http://localhost:1313/hugo-texify3/posts/emoji-support/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <author>michael@michaelneuper.com (Michael Neuper)</author>
+      <author>michael@michaelneuper.com (Karan Pratap Shaw and Divyanshu Kumar)</author>
       <guid>http://localhost:1313/hugo-texify3/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;

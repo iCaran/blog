@@ -1,4 +1,4 @@
-baseURL = "https://michaelneuper.github.io/hugo-texify3/"
+baseURL = "https://www.github.io/hugo-texify3/"
 disqusShortname = ""
 enableGitInfo = true
 enableRobotsTXT = true
@@ -10,7 +10,7 @@ theme = "hugo-texify3"
 title = "TeXify3"
 
 [author]
-name = "Michael Neuper"
+name = "Karan Pratap Shaw and Divyanshu Kumar"
 email = "michael@michaelneuper.com"
 
 [taxonomies]
