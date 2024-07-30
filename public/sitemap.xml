@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-texify3/categories/</loc>
+    <loc>https://www.github.io/hugo-texify3/categories/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/mermaid/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/mermaid/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/posts/mermaid-diagrams/</loc>
+    <loc>https://www.github.io/hugo-texify3/posts/mermaid-diagrams/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/posts/</loc>
+    <loc>https://www.github.io/hugo-texify3/posts/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/categories/syntax/</loc>
+    <loc>https://www.github.io/hugo-texify3/categories/syntax/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/css/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/css/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/html/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/html/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/markdown/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/markdown/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/posts/markdown-syntax/</loc>
+    <loc>https://www.github.io/hugo-texify3/posts/markdown-syntax/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/categories/themes/</loc>
+    <loc>https://www.github.io/hugo-texify3/categories/themes/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/privacy/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/privacy/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/posts/rich-content/</loc>
+    <loc>https://www.github.io/hugo-texify3/posts/rich-content/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/shortcodes/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/shortcodes/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/posts/placeholder-text/</loc>
+    <loc>https://www.github.io/hugo-texify3/posts/placeholder-text/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/text/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/text/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/posts/math-typesetting/</loc>
+    <loc>https://www.github.io/hugo-texify3/posts/math-typesetting/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/tags/emoji/</loc>
+    <loc>https://www.github.io/hugo-texify3/tags/emoji/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/posts/emoji-support/</loc>
+    <loc>https://www.github.io/hugo-texify3/posts/emoji-support/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-texify3/</loc>
+    <loc>https://www.github.io/hugo-texify3/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url>
 </urlset>
