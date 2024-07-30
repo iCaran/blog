@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>http://localhost:1313/hugo-texify3/categories/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/mermaid/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/mermaid/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/mermaid-diagrams/</loc>
+    <loc>http://localhost:1313/hugo-texify3/posts/mermaid-diagrams/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
+    <loc>http://localhost:1313/hugo-texify3/posts/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/syntax/</loc>
+    <loc>http://localhost:1313/hugo-texify3/categories/syntax/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/css/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/css/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/html/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/html/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/markdown/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/markdown/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/markdown-syntax/</loc>
+    <loc>http://localhost:1313/hugo-texify3/posts/markdown-syntax/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/themes/</loc>
+    <loc>http://localhost:1313/hugo-texify3/categories/themes/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/privacy/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/privacy/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/rich-content/</loc>
+    <loc>http://localhost:1313/hugo-texify3/posts/rich-content/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/shortcodes/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/shortcodes/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/placeholder-text/</loc>
+    <loc>http://localhost:1313/hugo-texify3/posts/placeholder-text/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/text/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/text/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/math-typesetting/</loc>
+    <loc>http://localhost:1313/hugo-texify3/posts/math-typesetting/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/emoji/</loc>
+    <loc>http://localhost:1313/hugo-texify3/tags/emoji/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/emoji-support/</loc>
+    <loc>http://localhost:1313/hugo-texify3/posts/emoji-support/</loc>
     <lastmod>2024-07-25T12:50:25+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-07-25T12:50:25+05:30</lastmod>
+    <loc>http://localhost:1313/hugo-texify3/</loc>
+    <lastmod>2024-07-30T17:39:17+05:30</lastmod>
   </url>
 </urlset>
