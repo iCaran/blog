@@ -18,13 +18,13 @@ tags = "tags"
 categories = "categories"
 
 [params]
-title="Vichāramañjarī"
+title = "Vichāramañjarī"
 description = "Vichāramañjarī - Explore. Engage. Enlighten. Welcome to the garden of thoughts."
 # footnote = """
 # Powered by  <a class=link href=https://gohugo.io target=_blank rel=noopener>Hugo</a> | 
 # Theme <a class=link href=https://github.com/michaelneuper/hugo-texify3 target=_blank rel=noopener>TeXify3</a>
 # """
-customCSS = []
+customCSS = ["css/style.css"]
 customJS = []
 dateFormat = "2 January 2006"
 emphasisWithDots = true
@@ -34,8 +34,8 @@ math = true
 enableDuckDuckGoSearchBox = true
 numberedSubtitles = true
 
-  [params.commentEngine]
-  code = """
+[params.commentEngine]
+code = """
   <script src="https://giscus.app/client.js"
         data-repo="michaelneuper/hugo-texify3"
         data-repo-id="R_kgDOIjPNaQ"
@@ -54,28 +54,18 @@ numberedSubtitles = true
   </script>
   """
 
-  [params.buymeacoffee]
-  code = """
-  <script async data-name="BMC-Widget" 
-        data-cfasync="true" 
-        src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" 
-        data-id="michaelneuper" 
-        data-description="Like what I do? Buy me a coffee!" 
-        data-message="" 
-        data-color="#d79921" 
-        data-position="Right" 
-        data-x_margin="18" 
-        data-y_margin="18"
-        crossorigin="anonymous">
-  </script>
+[params.buymeacoffee]
+code = """
+<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="usandourrew" data-description="Support me on Buy me a coffee!" data-message="Thanks for Reading, Support if you Liked it" data-color="#FF813F" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
   """
 
-  [params.sharingbuttons]
-  facebook = true
-  twitter = true
-  email = true
-  linkedin = true
-  reddit = true
-  whatsapp = true
-  hackernews = true
-  telegram = true
+[params.sharingbuttons]
+facebook = true
+twitter = true
+email = true
+linkedin = true
+reddit = true
+whatsapp = true
+hackernews = true
+telegram = true
+enableEmoji = true
