@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on विचारमञ्जरी</title>
-    <link>http://localhost:1313/hugo-texify3/posts/</link>
+    <link>http://localhost:1313/iCaran/blog/posts/</link>
     <description>Recent content in Posts on विचारमञ्जरी</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>usandourregrets@protonmail.com (Karan Pratap Shaw and Divyanshu Kumar)</managingEditor>
-    <webMaster>usandourregrets@protonmail.com (Karan Pratap Shaw and Divyanshu Kumar)</webMaster><atom:link href="http://localhost:1313/hugo-texify3/posts/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>usandourregrets@protonmail.com (Karan Pratap Shaw and Divyanshu Kumar)</webMaster><atom:link href="http://localhost:1313/iCaran/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/hugo-texify3/posts/test/</link>
+      <link>http://localhost:1313/iCaran/blog/posts/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>usandourregrets@protonmail.com (Karan Pratap Shaw and Divyanshu Kumar)</author>
-      <guid>http://localhost:1313/hugo-texify3/posts/test/</guid>
+      <guid>http://localhost:1313/iCaran/blog/posts/test/</guid>
       <description></description>
     </item>
     
